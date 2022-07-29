@@ -28,7 +28,7 @@ function getRandomNumber() {
 
 //generate quote with button
 
-btn.addEventListener("click", function (e) {
+btn.addEventListener("click", function e() {
   e.preventDefault();
   const randomQuote = numberOfquote;
 
